@@ -1,0 +1,29 @@
+
+.box {
+	margin-top: 200px;
+	width: auto;
+	height: auto;
+	background-color: hsl(5, 40%, 30%);
+	text-align: center;
+	align-content: center;
+	margin-right: 250px;
+	margin-left: 250px
+}
+
+#scoob{
+	height: 20px;
+}
+
+#btn{
+	height:  30px;
+	width: 50px;
+	padding: 5px;
+	margin:10px;
+}
+
+
+#output{
+	font-weight: bold;
+	font-size: 30px;
+	padding:10px;
+}
